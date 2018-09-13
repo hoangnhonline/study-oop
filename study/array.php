@@ -1,0 +1,2 @@
+-array_sum
+- truoc khi foreach nho check empty
